@@ -1,2 +1,6 @@
 File2 changed
 Add new str at master branch
+
+Delete first string
+Add second string
+
