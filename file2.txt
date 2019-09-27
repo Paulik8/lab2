@@ -1,2 +1,1 @@
-Delete first string
-Add second string
+File2 changed
